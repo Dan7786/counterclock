@@ -1,0 +1,170 @@
+.counter{
+	padding: 50px 40px;
+	background: linear-gradient(to right, #ee0979, #ff6a00);
+	background-size: cover;
+	color: white;
+	font: normal 12px 'Open Sans', sans-serif;
+	margin-top: 20px;
+	background-repeat: no-repeat;
+}
+.h1{
+	font-size: 700;
+}
+
+.text-center{
+	text-align: center;
+	padding: 60px 60px;
+
+}
+
+.facebook{
+	text-align: center;
+	margin: 20px 20px;
+	}
+
+.col-md-4{
+	margin-top: 45px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+.search-result{
+	background-color: #39FF14;
+}
+.col-md-6:not(:last-child){
+                border-right:0.5px solid  #eeecc0;
+                height:300px;
+                vertical-align:middle;
+                display: table-cell;
+            }
+
+.icon-center{
+	text-align: center !important;
+	padding: 35px 35px;
+	color: #39FF14;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+}
+
+
+.features-icons{
+	text-align: left !important;
+	padding: 20px 20px;
+	font-weight: 700;
+}
+.features-icons p{
+	text-align: center !important;
+	color: gray;
+	font-size: 10px;
+	margin-bottom: 100px;
+
+}
+.icons-features{
+	padding-right: 6000px;
+}
+
+.features-icons h5{
+	text-align: center !important;
+	font-weight: 700;
+
+}
+
+.features-section{
+	padding-left: 300px;
+	padding-right: 300px;
+	border-bottom: 1px solid #eeecc0;
+}
+.img-section{
+	border-bottom: 0.5px solid #eeecc0;
+	padding-top: 20px 20px;
+}
+.rear-img{
+	padding-top: 40px;
+	margin-bottom: 0px;
+}
+
+.count-down{
+	font-size: 80px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+
+.search-box{
+	font-size: 30px;
+}
+
+.container img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+}
+
+.lorem{
+	font-size: 12px;
+	color: gray;
+	margin-bottom: 50px;
+}
+.ipsum{
+	font-size: 17px;
+	color: #39FF14;
+	font-family: 'Oswald', sans-serif;
+}
+.growing-section{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+.action-page{
+	background: gray;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border-bottom: : 1px ;/* Gray border */
+  border: none;
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  width: 100%;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: black;
+}
+
+/* Add a background color and some padding around the form */
+
+ul#example {
+	list-style: none;
+	margin: 50px 0;
+	padding: 0;
+	display: block;
+	text-align: center;
+}
+ul#example li {
+	display: inline-block;
+}
+ul#example li span {
+	font-size: 80px;
+	font-weight: 300;
+	line-height: 80px;
+}
+ul#example li.seperator {
+	font-size: 80px;
+	line-height: 70px;
+	vertical-align: top;
+}
+ul#example li p {
+	color: #a7abb1;
+	font-size: 25px;
+}
