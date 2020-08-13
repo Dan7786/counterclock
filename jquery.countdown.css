@@ -120,7 +120,7 @@
 }
 .parallax {
   /* The image used */
-  background-image: url("file:///E:/Counterclock/images/pixel1.jpg"); 
+  background-image: url("../images/pixel1.jpg"); 
 
   /* Set a specific height */
   height: 600px;
@@ -148,7 +148,7 @@
 
 .contact-section{
 	padding: 80px 0px;
-	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("file:///E:/counterclock/images/bg-signup.jpg");
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../images/bg-signup.jpg");
 }
 .border{
 	width: 100px;
